@@ -29,9 +29,9 @@ print("Valor de mi variable compleja: ", my_complex_variable)
 
 # Algunas funciones del lenguaje
 
-print(len(my_complex_str_variable)) # len() calcula el tañano de un string
+print(len(my_complex_str_variable)) # len() calcula el tamaño de un string
 
-# Inputs
+# Inputs o entradas por teclado
 
 name = input("¿Cuál es tu nombre?: ")
 age = input("¿Y tu edad?: ")
